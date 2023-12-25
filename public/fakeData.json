@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Computer Science",
+        "image": "https://i.ibb.co/JtghC2J/html-system-website-concept-23-2150376770.jpg",
+        "description": "Learn the fundamentals of computer science.",
+        "total_enrollment": 120
+    },
+    {
+        "id": 2,
+        "title": "Web Development Boot camp",
+        "image": "https://i.ibb.co/z2wpwy6/web-development-concept-isometric-landing-page-team-develops-optimizes-layout-site-9209-7568.jpg",
+        "description": "Master the art of building modern websites.",
+        "total_enrollment": 90
+    },
+    {
+        "id": 3,
+        "title": "Data Science Essentials",
+        "image": "https://i.ibb.co/0mXVMmV/data-science-concept-blue-backgroundmachine-learning-big-data-database-classification-simple-icons-1.jpg",       "description": "Explore the world of data analysis and machine learning.",
+        "total_enrollment": 75
+    },
+    {
+        "id": 4,
+        "title": "Graphic Design Fundamentals",
+        "image": "https://i.ibb.co/tcVt0KS/design-word-cloud-innovation-codeea-creativity-design-concept-505353-280.jpg",        
+        "description": "Unlock your creativity with the basics of graphic design.",
+        "total_enrollment": 105
+    }
+]
