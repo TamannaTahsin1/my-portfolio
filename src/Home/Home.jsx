@@ -4,7 +4,8 @@ import Contacts from "../Pages/Contacts/Contacts";
 import About from "./About/About";
 
 import Projects from "./Projects/Projects";
-import Skill from "./Skill/Skill";
+
+import Skills from "./Skill/Skills";
 const Home = () => {
   return (
     <div>
@@ -13,7 +14,8 @@ const Home = () => {
         {/* <Scroll></Scroll>*/}
         <About></About>
         <Projects></Projects>
-        <Skill></Skill>
+        {/* <Skill></Skill> */}
+        <Skills></Skills>
         <Contacts></Contacts>
       </div>
     </div>
